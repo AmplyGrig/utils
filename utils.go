@@ -10,8 +10,8 @@ func InSlice(a []string, x string) bool {
 	return false
 }
 
-//ContainsInt check if int is in []int
-func ContainsInt(a []int, x int) bool {
+//InSliceInt check if int is in []int
+func InSliceInt(a []int, x int) bool {
 	for _, n := range a {
 		if x == n {
 			return true
