@@ -1,3 +1,3 @@
-module github.com/AmplyGrig/utils/v2
+module github.com/AmplyGrig/utils/v3
 
 go 1.15
